@@ -1,0 +1,2 @@
+Prefix plugins/DotPlot/example/
+Plugin DotPlot inputfile resample.rds outputfile output.png
